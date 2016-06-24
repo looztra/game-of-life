@@ -1,4 +1,4 @@
-package com.wakaleo.gameoflife.domain;!!!!
+package com.wakaleo.gameoflife.domain;
 
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
